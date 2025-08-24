@@ -83,8 +83,7 @@ body {
   min-height: 72vh;
   display: grid;
   align-items: center;
-  background-image: 
-    url('https://images.unsplash.com/photo-1520975922203-b5df20103fd4?q=80&w=2400&auto=format&fit=crop'),
+  background-image:
     radial-gradient(1px 1px at 20% 30%, rgba(255,255,255,0.4), transparent),
     radial-gradient(2px 2px at 70% 80%, rgba(255,255,255,0.6), transparent),
     radial-gradient(1.5px 1.5px at 40% 60%, rgba(255,255,255,0.5), transparent);
